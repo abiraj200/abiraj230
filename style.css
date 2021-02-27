@@ -1,0 +1,30 @@
+#apps{
+    text-align: center;
+    width: 100%;
+    height: 800px;
+    background-color: lawngreen;
+}
+#games{
+        text-align: center;
+    width: 100%;
+    height: 800px;
+    background-color: dodgerblue;    
+}
+img{
+    transition: transform .2s;
+    
+    
+}
+img:hover{
+    transform: scale(0.8);
+    
+}
+#chatbot{
+        text-align: center;
+    width: 100%;
+    height: 800px;
+    background-color: lawngreen;
+}
+body{
+    text-align: center;
+}
